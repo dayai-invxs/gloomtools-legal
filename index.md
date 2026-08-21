@@ -20,9 +20,29 @@ The skull on the app icon is derived from [Pirate Flag of Jack
 Rackham](https://commons.wikimedia.org/wiki/File:Pirate_Flag_of_Jack_Rackham.svg)
 on Wikimedia Commons, released under CC0.
 
-Perk lists were cross-checked against
-[GloomhavenModifierDeck](https://github.com/Happyquack/GloomhavenModifierDeck)
-by Happyquack, MIT licensed.
+The app's class and perk data is derived from
+[Gloomhaven Modifier Deck](https://github.com/Happyquack/GloomhavenModifierDeck)
+by Jay Ozello, used under the MIT License:
+
+> Copyright (c) 2021 Jay Ozello
+>
+> Permission is hereby granted, free of charge, to any person obtaining a copy
+> of this software and associated documentation files (the "Software"), to deal
+> in the Software without restriction, including without limitation the rights
+> to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+> copies of the Software, and to permit persons to whom the Software is
+> furnished to do so, subject to the following conditions:
+>
+> The above copyright notice and this permission notice shall be included in all
+> copies or substantial portions of the Software.
+>
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+> IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+> FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+> AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+> LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+> OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+> SOFTWARE.
 
 ## Not affiliated with Cephalofair Games
 
