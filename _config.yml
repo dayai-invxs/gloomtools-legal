@@ -1,0 +1,7 @@
+title: GloomTools
+description: Privacy policy and support for the GloomTools iOS app
+theme: jekyll-theme-minimal
+
+# Pages that shouldn't appear in the built site
+exclude:
+  - README.md
