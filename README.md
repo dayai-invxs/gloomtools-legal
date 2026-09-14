@@ -26,10 +26,24 @@ materially.
 
 ## Keeping the policy true
 
-The policy claims the app collects nothing and makes no network requests. That
-is currently accurate: the app imports only Foundation, SwiftUI, and
-Observation, requests no permissions, and writes a single JSON file to its own
-Documents directory. Adding any SDK, analytics, crash reporter, or sync feature
-makes the published policy false — revise this repo in the same change.
+The policy claims the app collects nothing, contacts no server, and shares data
+only peer-to-peer during party play. As of version 2.1 that is accurate:
 
-The support page also states which classes ship. Update it when that changes.
+- The app imports only Foundation, SwiftUI, Observation, and
+  MultipeerConnectivity. There is no URLSession use and no third-party SDK.
+- It writes `gloomtools.json` (characters) and `gloomtools-monsters.json` (the
+  board) to its Documents directory, plus two UserDefaults keys: the party
+  device identifier (`gloomtools.peerID`) and the dashboard zoom.
+- Party play advertises the character name, party ID, and device identifier in
+  the unencrypted Multipeer discovery info; the session itself uses
+  `encryptionPreference: .required`. Guests persist the host's board; other
+  players' characters are kept in memory only.
+- The only permission is Local Network (`NSLocalNetworkUsageDescription`).
+
+Any change to those facts — a new SDK, analytics, a crash reporter, cloud sync,
+another permission, or a change to what a party shares or saves — makes the
+published policy false. Revise this repo in the same change, and keep the app's
+`PrivacyInfo.xcprivacy` in step.
+
+The support page also states which classes ship and names on-screen buttons.
+Update it when those change.

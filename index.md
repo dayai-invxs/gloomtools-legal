@@ -4,8 +4,11 @@ title: GloomTools
 
 # GloomTools
 
-An attack modifier deck and character mat for Gloomhaven, for use at the table.
-Everything it knows stays on your phone.
+A scenario toolkit for Gloomhaven, for use at the table, on iPhone and iPad:
+your attack modifier deck, health and experience, items, and the monster board
+with its own deck. Play as a party and everyone's device stays in step, with a
+dashboard for the TV. No accounts, no servers — everything stays on the devices
+at your table.
 
 - [Privacy Policy](privacy)
 - [Support](support)
@@ -44,10 +47,17 @@ by Jay Ozello, used under the MIT License:
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 > SOFTWARE.
 
+With thanks, too, to the community projects the rest of the game data was
+compiled from. The tables themselves are Cephalofair Games' content, and
+nothing from these projects ships in the app:
+
+- Rule-only perk lines: [teoucsb82/gloomhaven](https://github.com/teoucsb82/gloomhaven)
+- Items: [heisch/gloomhaven-item-db](https://github.com/heisch/gloomhaven-item-db)
+- Monster stats: [pearofducks/gloomhaven-data](https://github.com/pearofducks/gloomhaven-data)
+
 ## Not affiliated with Cephalofair Games
 
 GloomTools is an unofficial fan-made tool. Gloomhaven, Frosthaven, and Jaws of
 the Lion are trademarks of Cephalofair Games. This app is not produced by,
-endorsed by, or associated with Cephalofair Games, and no game content beyond
-the rules references needed to run the deck is reproduced here. You need a copy
-of the game to use it.
+endorsed by, or associated with Cephalofair Games, and no game artwork is
+reproduced. You need a copy of the game to use it.
