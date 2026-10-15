@@ -72,22 +72,41 @@ them to the monsters' deck from the settings sheet on the Monsters tab.
 ### How do we play as a party?
 
 One player opens the Character tab and taps **Start a Party**; that player runs
-the monsters. Everyone else taps **Join a Party**, chooses to join as their
-character, and picks the party from the list. The host is asked to let each new
-player in. Every device then shares its own character and sees the same
-monster board.
+the monsters. Their screen shows a six-character **party code** — read it out,
+or use the share button beside it. Everyone else taps **Join a Party**, types
+the code, and chooses to join as their character. Every device then shares its
+own character and sees the same monster board.
 
-### I can't find the party.
+Party play needs an internet connection on every device. The devices do not
+need to be on the same Wi-Fi network.
+
+Anyone with the code can join while the party is running, so share it only with
+the people at your table.
+
+### I can't join the party.
 
 Check these, in order:
 
-- **Local network access.** iOS asks the first time you use party play. If it
-  was declined, turn GloomTools back on under Settings › Privacy & Security ›
-  Local Network. Without it the list stays empty and says nothing about why.
-- **Wi-Fi and Bluetooth** are turned on for every device.
-- **Everyone has the same version** of the app. Different versions refuse to
-  connect rather than showing the wrong numbers.
-- **The party is still running.** It ends when the host ends the scenario.
+- **The code.** Codes are six letters and numbers, and never use 0, O, 1, I,
+  or L, so there is nothing to mix up. It is on the host's Character tab, under
+  Party.
+- **An internet connection** on your device, and on the host's when the party
+  was started.
+- **The party is still running.** It ends when whoever is running the monsters
+  ends the scenario, and a code cannot be reused after that.
+- **Everyone has an up-to-date version** of the app.
+
+### It says I'm offline.
+
+Your device has lost its connection. Keep playing: your changes are kept and
+sent as soon as the connection is back, and you catch up on everyone else's at
+the same time.
+
+### The app closed in the middle of a party.
+
+Open it again. It rejoins the party you were in by itself. If it cannot reach
+the party at that moment — usually for want of signal — a **Rejoin Party**
+button appears on the Character tab.
 
 ### How do I put the party on a TV?
 
@@ -103,15 +122,14 @@ Chromecast is not supported.
 ### Someone's phone locked. Is their health out of date?
 
 No. Nothing about a character changes while its owner isn't using their phone,
-so the numbers everyone sees are still current. They catch up automatically the
-moment the phone is unlocked.
+so the numbers everyone sees are still current.
 
 ### How do I hand the monsters to someone else?
 
 If you are running the monsters, tap the people button on the Monsters tab and
-pick who takes over. If you want them, tap **Take the Monsters**. The current
-owner is asked; if their phone is locked, the monsters are yours after a few
-seconds.
+pick who takes over. If you want them, tap **Take the Monsters** — they are
+yours straight away, without waiting on the current owner, so agree it at the
+table first.
 
 ### Why can't I end the scenario?
 
@@ -159,10 +177,12 @@ scenario with the wrong deck.
 ### Is my data backed up anywhere?
 
 Only in your device's own iOS backup, if you have that turned on. The app has
-no accounts and no servers, so there is no cloud copy. Party play shares your
-character with the other devices at your table while the party lasts, but it is
-not a backup and does not carry characters between your own devices. Deleting
-the app deletes everything. See the [Privacy Policy](privacy) for details.
+no accounts, so there is no cloud copy of your characters. Party play stores
+the party's characters and board online so the devices at the table can share
+them; email us with your party code if you want that copy deleted. It is not a
+backup and does not carry characters between your own devices.
+Deleting the app deletes everything on your device. See the
+[Privacy Policy](privacy) for details.
 
 ---
 

@@ -7,8 +7,8 @@ title: GloomTools
 A scenario toolkit for Gloomhaven, for use at the table, on iPhone and iPad:
 your attack modifier deck, health and experience, items, and the monster board
 with its own deck. Play as a party and everyone's device stays in step, with a
-dashboard for the TV. No accounts, no servers — everything stays on the devices
-at your table.
+dashboard for the TV. No accounts, no ads, no analytics. Played solo, nothing
+leaves your device.
 
 - [Privacy Policy](privacy)
 - [Support](support)
